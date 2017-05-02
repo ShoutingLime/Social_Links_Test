@@ -25,9 +25,9 @@
   background-color: lightseagreen;
 }
 
-#fb-share-button {
+#share {
   position: absolute;
   width: 50px;
   height: 62px;
-  background-color: transparent;
+  background-color: white;
 }
