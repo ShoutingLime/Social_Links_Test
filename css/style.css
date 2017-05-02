@@ -26,18 +26,16 @@
 }
 
 #share {
-  width: 50px;
+  width: 60px;
   height: 62px;
   background-color: white;
   border: 1px solid gray;
-  padding-bottom: 40px;
-  overflow: hidden;
 }
 
 .fb-button-my ._2pi7 {
   display: none;
 }
 
-svg._1pbq {
+svg {
   display: none;
 }
