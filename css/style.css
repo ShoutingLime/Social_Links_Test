@@ -38,9 +38,10 @@
 
 .fb-share-button-my {
   display: block;
-  width: 50px;
+  width: 100px;
   height: 62px;
   border: 1px solid gray;
   background-image: url(../img/logo-fb.jpg);
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
+  background-color: white;
 }
