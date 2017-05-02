@@ -41,6 +41,6 @@
   width: 50px;
   height: 62px;
   border: 1px solid gray;
-  background-image: url(img/logo-fb.jpg);
+  background-image: url(../img/logo-fb.jpg);
   background-repeat: no-repeat; 
 }
