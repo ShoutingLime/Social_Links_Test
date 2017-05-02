@@ -25,7 +25,7 @@
   background-color: lightseagreen;
 }
 
-.fb-share-button {
+#fb-share-button {
   position: absolute;
   width: 50px;
   height: 62px;
