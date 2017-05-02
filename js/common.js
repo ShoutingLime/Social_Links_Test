@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  var fbBlock = document.querySelector('#share .inlineBlock _2tga _49ve'),
+  var fbBlock = document.querySelector('#share ._2tga _49ve'),
     shareWord = document.querySelector('#share span._49vh._2pi7'),
     shareNumber = document.querySelector('#share[data-layout]');
 
