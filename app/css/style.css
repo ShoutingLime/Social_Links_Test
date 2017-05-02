@@ -1,0 +1,26 @@
+.page {
+  width: 1000px;
+  height: 920px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: 1px solid black;
+  background-color: lightgray;
+}
+
+.sec1 {
+  height: 300px;
+  border: 1px solid yellow;
+  background-color: tomato;
+}
+
+.sec2 {
+  height: 300px;
+  border: 1px solid yellow;
+  background-color: lightpink;
+}
+
+.sec3 {
+  height: 300px;
+  border: 1px solid yellow;
+  background-color: lightseagreen;
+}
