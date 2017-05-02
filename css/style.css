@@ -30,8 +30,9 @@
   height: 62px;
   background-color: white;
   border: 1px solid gray;
+  overflow: hidden;
 }
 
-#share > span._49vh._2pi7 {
+#share ._49vh._2pi7 {
   display: none;
 }

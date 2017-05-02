@@ -1,3 +1,4 @@
+/*
 (setTimeout (function () {
   'use strict';
   var fbBlock = document.querySelector('.inlineBlock _2tga _49ve'),
@@ -9,3 +10,4 @@
   fbBlock.style.border = '1px solid gray';
   shareWord.style.display = 'none';
 }()), 3000);
+*/
