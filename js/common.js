@@ -3,4 +3,4 @@
   var shareNumber = document.getElementById('u_0_3');
 
   console.log(shareNumber);
-}()), 2000);
+}()), 10000);
