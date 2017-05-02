@@ -25,9 +25,13 @@
   background-color: lightseagreen;
 }
 
-#share {
-  position: absolute;
+.inlineBlock _2tga _49ve {
   width: 50px;
   height: 62px;
   background-color: white;
+  border: 1px solid gray;
+}
+
+._49vh _2pi7 {
+  display: none;
 }
