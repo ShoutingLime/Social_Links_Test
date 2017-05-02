@@ -1,7 +1,7 @@
 (function () {
   'use strict';
-  var fbBlock = document.querySelector('.inlineBlock _2tga _49ve'),
-    shareWord = document.querySelector('#u_0_2 > div > span._49vh._2pi7'),
+  var fbBlock = document.querySelector('#share .inlineBlock _2tga _49ve'),
+    shareWord = document.querySelector('#share span._49vh._2pi7'),
     shareNumber = document.querySelector('#share[data-layout]');
 
   fbBlock.style.width = '50px';
