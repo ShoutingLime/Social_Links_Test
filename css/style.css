@@ -31,6 +31,7 @@
   background-color: white;
   border: 1px solid gray;
   overflow: hidden;
+  opacity: 0;
 }
 
 #share ._49vh._2pi7 {
