@@ -1,6 +1,11 @@
 (setTimeout (function () {
   'use strict';
-  var shareNumber = document.getElementById('u_0_3');
-
-  console.log(shareNumber);
+  var shareWord = document.getElementsByClassName('._6a ._6b');
+  shareWord.style.display = "none";
 }()), 10000);
+
+(function () {
+  'use strict';
+  var shareWord = document.getElementsByClassName('._6a ._6b');
+  shareWord.style.display = "none";
+}());
