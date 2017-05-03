@@ -28,7 +28,6 @@
 #share {
   width: 50px;
   height: 62px;
-  background-color: white;
   border: 1px solid gray;
   overflow: hidden;
   z-index: -10;
@@ -38,8 +37,8 @@
   width: 50px;
   height: 62px;
   position: relative;
-  top: -62px;
+  top: -65px;
   border: 1px solid gray;
-  background-color: #000;
+  background-color: transparent;
   z-index: 10;
 }
