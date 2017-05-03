@@ -44,8 +44,8 @@
 .fb-logo {
   position: relative;
   display: block;
-  top: 7px;
-  left: 0;
+  top: -70px;
+  left: -25px;
   order: 1;
 }
 
