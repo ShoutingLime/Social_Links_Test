@@ -60,3 +60,9 @@
   display: block;
   order: 2;
 }
+
+.social-likes_vertical .social-likes__counter {
+    position: relative;
+    top: -100px;
+    right: -10px;
+}
