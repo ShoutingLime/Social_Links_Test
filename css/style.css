@@ -52,5 +52,8 @@
   margin-top: 37px;
   margin-left: 10px;
   color: #000;
+}
+
+.social-likes__button .social-likes__button_facebook {
   order: 2;
 }
