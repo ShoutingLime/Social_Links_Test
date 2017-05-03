@@ -11,6 +11,7 @@
   <meta property="og:image" content="img/image-fb.jpg">
   <title>Social Links Test</title>
   <link href="css/style.css" rel="stylesheet">
+  <link href="node_modules\social-likes-next\lib\social-likes_flat.css" rel="stylesheet">
 </head>
 
 <body class="page">
@@ -61,11 +62,16 @@
     <div class="my-fb-button"></div>
   </section>
   <section class="sec3">
-    <div class="fb-share social-button" style="width: 70px;">
-      <a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=200289843814542&amp;utm_source=fbsharing&amp;utm_medium=social&amp;https://shoutinglime.github.io/Social_Links_Test/" target="_blank" style="width: 70px; height: 30px;"><span class="fb_counter" style="display: table;"></span></a>
-    </div>
+    <div class="social-likes">
+    <div data-service="facebook" title="Share link on Facebook">Facebook</div>
+    <div data-service="twitter" title="Share link on Twitter">Twitter</div>
+    <div data-service="plusone" title="Share link on Google+">Google+</div>
+    <div data-service="vkontakte" title="Share link on Vkontakte">Vkontakte</div>
+    <div data-service="odnoklassniki" title="Share link on Odnoklassniki">Odnoklassniki</div>
+</div>
   </section>
   <script src="js/common.js"></script>
+  <script src="https://unpkg.com/social-likes-next/dist/social-likes.min.js"></script>
 </body>
 
 </html>
