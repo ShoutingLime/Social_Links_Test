@@ -55,5 +55,6 @@
 }
 
 .social-likes__button .social-likes__button_facebook {
+  display: block;
   order: 2;
 }
