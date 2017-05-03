@@ -45,10 +45,12 @@
   position: relative;
   top: -30px;
   left: -13px;
+  order: 1;
 }
 
 .social-likes__counter .social-likes__counter_facebook {
   margin-top: 37px;
   margin-left: 10px;
   color: #000;
+  order: 2;
 }
