@@ -38,3 +38,9 @@
   border: 1px solid gray;
   background-color: transparent;
 }
+
+.fb-logo {
+  position: relative;
+  top: -40px;
+  left: -20px;
+}
