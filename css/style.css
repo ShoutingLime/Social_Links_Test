@@ -35,3 +35,12 @@
   border: 1px solid gray;
   background-color: transparent;
 }
+
+#fb-share-button-my::before {
+  display: block;
+  content: "";
+  background-image: url(img/facebook.svg);
+  position: relative;
+  top: 30px;
+  left: 10px;
+}
