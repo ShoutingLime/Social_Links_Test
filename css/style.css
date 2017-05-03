@@ -47,7 +47,7 @@
 
 .social-likes__counter_facebook {
   position: relative;
-  top: 37px;
-  left: 10px;
+  margin-top: 37px;
+  margin-left: 10px;
   color: #000;
 }
