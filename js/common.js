@@ -9,3 +9,5 @@
   var shareWord = document.getElementsByClassName('._6a ._6b');
   shareWord.style.display = "none";
 }());
+
+console.log("Hi!");
