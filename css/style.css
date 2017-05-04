@@ -15,8 +15,7 @@
 }
 
 .fb-logo svg {
-  width: 10px;
-  height: 20px;
+  height: 35px;
   margin-top: 4px;
   margin-left: 7px;
   margin-right: 5px;
@@ -29,7 +28,7 @@
 
 .social-likes__counter.social-likes__counter_facebook {
   display: block;
-  margin-top: -6px;
+  margin-top: -4px;
   color: #ababab;
   text-align: center;
   font-family: "Fira Sans", Arial, sans-serif;
