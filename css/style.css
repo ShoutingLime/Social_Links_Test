@@ -1,8 +1,10 @@
 .page {
   width: 100px;
   height: 500px;
-  padding-left: 10px;
-  padding-right: 10px;
+}
+
+.sec3 {
+  height: 300px;
 }
 
 #fb-share-button-my {
@@ -35,7 +37,7 @@
 }
 
 .social-likes_vertical .social-likes__counter {
-    position: relative;
-    top: -100px;
-    right: -10px;
+  position: relative;
+  top: -100px;
+  right: -10px;
 }
