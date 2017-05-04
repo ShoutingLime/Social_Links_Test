@@ -3,15 +3,15 @@
   min-height: 315px;
 }
 
-.fb-share-button {
+.fb-share-button,
+.vk-share-button,
+.tw-share-button,
+.ok-share-button,
+.gp-share-button {
   width: 50px;
   height: 62px;
   border: 1px solid #eaeaeb;
   cursor: pointer;
-}
-
-.fb-logo {
-  display: block;
 }
 
 .fb-logo svg {
