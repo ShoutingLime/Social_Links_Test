@@ -1,13 +1,9 @@
-.page {
-  width: 100px;
-  height: 500px;
+.social-likes {
+  width: 50px;
+  min-height: 315px;
 }
 
-.sec3 {
-  height: 300px;
-}
-
-#fb-share-button-my {
+.fb-share-button {
   display: flex;
   flex-direction: column;
   width: 50px;
