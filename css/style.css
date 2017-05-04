@@ -40,7 +40,7 @@
   fill: #787878;
 }
 
-.vk-logo:hover svg {
+.vk-share-button:hover .vk-logo svg {
   fill: #587e9f;
 }
 
@@ -51,7 +51,7 @@
   fill: #787878;
 }
 
-.tw-logo:hover svg {
+.tw-share-button:hover .tw-logo svg {
   fill: #24aadd;
 }
 
@@ -62,7 +62,7 @@
   fill: #787878;
 }
 
-.ok-logo:hover svg {
+.ok-share-button:hover .ok-logo svg {
   fill: #f59310;
 }
 
@@ -73,7 +73,7 @@
   fill: #787878;
 }
 
-.gp-logo:hover svg {
+.gp-share-button:hover .gp-logo svg {
   fill: #d23e30;
 }
 
