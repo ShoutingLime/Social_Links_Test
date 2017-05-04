@@ -6,16 +6,18 @@
 .fb-share-button {
   width: 50px;
   height: 62px;
-  border: 1px solid gray;
+  border: 1px solid #eaeaeb;
 }
 
 .fb-logo {
   display: block;
+  margin-top: -10px;
+  margin-left: 10px;
 }
 
 .social-likes__counter.social-likes__counter_facebook {
   display: block;
-  color: #000;
+  color: #eaeaeb;
 }
 /*
 .social-likes__button .social-likes__button_facebook {
