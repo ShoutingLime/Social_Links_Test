@@ -104,6 +104,24 @@
   font-size: 10px;
 }
 
+.social-likes__counter.social-likes__counter_twitter {
+  display: block;
+  margin-top: -4px;
+  color: #ababab;
+  text-align: center;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: 10px;
+}
+
+.social-likes__counter.social-likes__counter_odnoklassniki {
+  display: block;
+  margin-top: -4px;
+  color: #ababab;
+  text-align: center;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: 10px;
+}
+
 .social-likes__counter.social-likes__counter_plusone {
   display: block;
   margin-top: -4px;
