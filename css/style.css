@@ -28,13 +28,46 @@
 
 .vk-logo svg {
   height: 28px;
-  margin-top: 4px;
+  margin-top: 10px;
   margin-left: 10px;
   fill: #787878;
 }
 
 .vk-logo:hover svg {
   fill: #587e9f;
+}
+
+.tw-logo svg {
+  height: 28px;
+  margin-top: 8px;
+  margin-left: 10px;
+  fill: #787878;
+}
+
+.tw-logo:hover svg {
+  fill: #24aadd;
+}
+
+.ok-logo svg {
+  height: 28px;
+  margin-top: 8px;
+  margin-left: 10px;
+  fill: #787878;
+}
+
+.ok-logo:hover svg {
+  fill: #f59310;
+}
+
+.gp-logo svg {
+  height: 28px;
+  margin-top: 8px;
+  margin-left: 10px;
+  fill: #787878;
+}
+
+.gp-logo:hover svg {
+  fill: #d23e30;
 }
 
 .social-likes__counter.social-likes__counter_facebook {
