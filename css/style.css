@@ -12,12 +12,17 @@
 
 .fb-logo {
   display: block;
-  margin-top: -9px;
-  margin-left: 7px;
+
 }
 
 .fb-logo svg {
   fill: #eaeaeb;
+  margin-top: -9px;
+  margin-left: 7px;
+}
+
+.fb-logo:hover svg {
+  fill: #3d5b95;
 }
 
 .social-likes__counter.social-likes__counter_facebook {
