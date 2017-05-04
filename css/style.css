@@ -4,29 +4,20 @@
 }
 
 .fb-share-button {
-  display: flex;
-  flex-direction: column;
   width: 50px;
   height: 62px;
   border: 1px solid gray;
-  background-color: transparent;
 }
 
 .fb-logo {
-  position: relative;
   display: block;
-  top: -70px;
-  left: -25px;
-  order: 1;
 }
 
-.social-likes__counter .social-likes__counter_facebook {
+.social-likes__counter.social-likes__counter_facebook {
   display: block;
-  margin-top: 37px;
-  margin-left: 10px;
   color: #000;
 }
-
+/*
 .social-likes__button .social-likes__button_facebook {
   display: block;
   order: 2;
@@ -37,3 +28,4 @@
   top: -100px;
   right: -10px;
 }
+*/
